@@ -189,7 +189,10 @@ namespace Trulioo.Client.V3.Tests
                             BeneficialOwnersCheck = true,
                             AnnualAccounts = true,
                             FiledChanges = true,
-                            FiledDocuments = true
+                            FiledDocuments = true,
+                            CompletePlus = true,
+                            ArticleOfAuthority = true,
+                            AgentAddressChange = true
                         }
                     }
                 },
