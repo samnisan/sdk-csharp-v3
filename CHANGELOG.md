@@ -1,6 +1,6 @@
 # Trulioo SDK for C# Changelog
 
-## Version 1.0.7.0
+## Version 1.0.8.0
 Added new document types
 	- CompletePlus
 	- ArticleOfAuthority
